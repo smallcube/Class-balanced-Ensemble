@@ -11,8 +11,8 @@ Python 3.7
 
 Getting started
 ===
-(1)	You can call the function MyEnsemble() in MyEnsemble.py to train the deep Ensemble proposed in our paper.
-(2)	EnsembleV2.py is the deep Ensemble proposed in our paper. 
+(1)	You can call the function MyEnsemble() in MyEnsemble.py to train the deep Ensemble proposed in our paper.\n
+(2)	EnsembleV2.py is the deep Ensemble proposed in our paper. \n
 (3)	CifarImbalanced.py is the code used to create imbalanced CIFAR dataset.
 (4)	ForcalLossV5.py is the Loss Function proposed in our paper.
 
